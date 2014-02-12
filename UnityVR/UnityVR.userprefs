@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OVR\Scripts\OVRPlayerController.cs">
+    <Files>
+      <File FileName="Assets\OVR\Scripts\OVRPlayerController.cs" Line="57" Column="34" />
+      <File FileName="Assets\OVR\Scripts\OVRPresetManager.cs" Line="127" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRDevice.cs" Line="690" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRMainMenu.cs" Line="1047" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRCamera.cs" Line="368" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRCameraController.cs" Line="595" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
